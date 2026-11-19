@@ -1,0 +1,15 @@
+# Secrets and credentials
+.env
+*.pem
+*.key
+credentials
+*.tfvars
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Misc
+*.zip
+.DS_Store
