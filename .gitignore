@@ -13,3 +13,4 @@ credentials
 # Misc
 *.zip
 .DS_Store
+target/
